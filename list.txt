@@ -1,0 +1,12 @@
+0.0.0.0 doubleclick.net
+0.0.0.0 googletagmanager.com
+0.0.0.0 googletagservices.com
+0.0.0.0 heatmap.it
+0.0.0.0 stats.datawrapper.de
+0.0.0.0 pubads.g.doubleclick.net
+0.0.0.0 securepubads.g.doubleclick.net
+0.0.0.0 fundingchoicesmessages.google.com
+0.0.0.0 googletagmanager.com
+0.0.0.0 googletagservices.com
+0.0.0.0 pubmatic.com
+0.0.0.0 sb.scorecardresearch.com
